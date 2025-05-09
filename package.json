@@ -1,0 +1,12 @@
+{
+  "name": "primus",
+  "version": "1.0.0",
+  "description": "Private Message of Us",
+  "private": true,
+  "repository": "https://github.com/VVSOGI/Primus.git",
+  "author": "benny <vvsogi@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
